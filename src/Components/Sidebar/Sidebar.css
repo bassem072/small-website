@@ -1,0 +1,19 @@
+.sidebar {
+    width: 25%;
+    background-color: #d0d0d0;
+    height: calc(100vh - 60px);
+    padding: 10px;
+}
+
+.sidebar ul {
+    list-style: none;
+}
+
+.sidebar li  a{
+    padding: 10px;
+    text-decoration: none;
+    display: block;
+    color: #333;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
